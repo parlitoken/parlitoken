@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-AirDrop Socials: [([Telegram Channel](https://t.me/PArLiAirDrop)],[Twitter](https://twitter.com/PArLi_Airdrop)
+AirDrop Socials: [Telegram Channel](https://t.me/PArLiAirDrop),[Twitter](https://twitter.com/PArLi_Airdrop),
 <!---
 parlitoken/parlitoken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
